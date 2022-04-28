@@ -4,13 +4,13 @@ Practice problems test learner's understanding of the concepts that they studied
 
 
 This repo contains solution to the practice problems. Following is the list of practice problems:
-- [Compose Article](https://github.com/google-developer-training/basic-android-kotlin-compose-training-practice-problems/+/refs/heads/main/Unit%201/Pathway%203/ComposeArticle/)
+- [Compose Article](https://github.com/google-developer-training/basic-android-kotlin-compose-training-practice-problems/tree/main/Unit%201/Pathway%203/ComposeArticle)
 
     For Learn Together app, build a screen which displays article about Jetpack Compose Tutorial
-- [Task Completed](https://github.com/google-developer-training/basic-android-kotlin-compose-training-practice-problems/+/refs/heads/main/Unit%201/Pathway%203/TaskCompleted/)
+- [Task Completed](https://github.com/google-developer-training/basic-android-kotlin-compose-training-practice-problems/tree/main/Unit%201/Pathway%203/TaskCompleted)
 
     For Task Manager app, build a screen which displays All tasks completed screen.
-- [Compose Quadrant](https://github.com/google-developer-training/basic-android-kotlin-compose-training-practice-problems/+/refs/heads/main/Unit%201/Pathway%203/ComposeQuadrant/)
+- [Compose Quadrant](https://github.com/google-developer-training/basic-android-kotlin-compose-training-practice-problems/tree/main/Unit%201/Pathway%203/ComposeQuadrant)
 
     Build an app that displays the information about the Composable functions. 
 
