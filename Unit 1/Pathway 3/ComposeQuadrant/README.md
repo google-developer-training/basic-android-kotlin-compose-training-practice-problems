@@ -15,6 +15,7 @@ This parameter in `Text` composable allows you specify how bold or light the tex
 This parameter in `Text` composable defines how to align the text horizontally.  The `TextAlign.Justify` property stretches the lines of text that end with soft line break to fill the width of the container.
  
 **Modifier.weight**
+
 This modifier is scoped to Row composable. The modifier allows the size of the element's width proportional to its `weight` and relative to other weighted sibling elements. The parent will divide the horizontal space remaining after measuring unweighted child elements and distribute it according to this weight.
  
 ## Solution
