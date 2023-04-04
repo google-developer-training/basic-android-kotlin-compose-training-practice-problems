@@ -20,7 +20,7 @@ This modifier is scoped to Row composable. The modifier allows the size of the e
 ## Solution
  
 Following is the overview of steps used in the solution
-1. For a single quadrant, create a `ComposableInforCard`
+1. For a single quadrant, create a `ComposableInfoCard`
  
    ```
    // Setup background, padding and size modifiers. Also, set the alignment to center - vertically as well
@@ -37,9 +37,9 @@ Following is the overview of steps used in the solution
    ```
    Row(Modifier.weight(1f)){
        // Quadrant to be displayed on first half of the screen
-       ComposableInforCard(...)
+       ComposableInfoCard(...)
        // Quadrant to be displayed on second half of the screen
-       ComposableInforCard(...)
+       ComposableInfoCard(...)
    }
    ```
 3. Create another `Row` composable, with same structure as above, to display the remaining two quadrants
