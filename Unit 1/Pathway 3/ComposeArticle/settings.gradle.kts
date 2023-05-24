@@ -29,4 +29,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Compose Article"
-include ':app'
+include(":app")

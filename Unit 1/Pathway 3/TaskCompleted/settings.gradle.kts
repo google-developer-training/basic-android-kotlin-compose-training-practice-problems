@@ -28,5 +28,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Compose Quadrant"
-include ':app'
+rootProject.name = "Task Completed"
+include(":app")
