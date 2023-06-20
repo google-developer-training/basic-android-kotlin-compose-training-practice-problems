@@ -20,8 +20,7 @@ Consider the solutions as one way to solve the problems and feel free to experim
 Pre-requisites
 --------------
 You need to know:
-- How to load the project from Github into Android Studio and run the app in Android Studio.
+- How to load the project from GitHub into Android Studio and run the app in Android Studio.
 
 Recommendation:
 - Try to solve the problems before you check the solution.
-

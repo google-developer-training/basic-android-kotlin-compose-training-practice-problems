@@ -28,6 +28,7 @@ local.properties
 # the project can be imported from settings.gradle.kts
 *.iml
 */**/.idea/*
+**/.idea
 
 # Gradle cache
 .gradle
